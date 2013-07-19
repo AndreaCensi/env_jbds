@@ -1,0 +1,11 @@
+
+- dir: .
+  url: git@github.com:AndreaCensi/env_jbds.git
+
+- dir: docs/writingtools
+  url: git@github.com:AndreaCensi/writingtools.git
+
+- dir: docs/13-jbds
+  url: ssh://git@ac.repositoryhosting.com/ac/13-jbds.git
+
+
