@@ -7,57 +7,75 @@
 
 - dir: docs/13-jbds
   url: ssh://git@ac.repositoryhosting.com/ac/13-jbds.git
+  branch: env_jbds
 
 - dir: src/contracts
   url: git@github.com:AndreaCensi/contracts.git
+  branch: env_jbds
 
 - dir: src/latex_gen
   url: git@github.com:AndreaCensi/latex_gen.git
+  branch: env_jbds
 
 - dir: src/compmake
   url: git@github.com:AndreaCensi/compmake.git
+  branch: env_jbds
 
 - dir: src/geometry
   url: git@github.com:AndreaCensi/geometry.git
+  branch: env_jbds
 
 - dir: src/procgraph
   url: git@github.com:AndreaCensi/procgraph.git
+  branch: env_jbds
 
 - dir: src/reprep
   url: git@github.com:AndreaCensi/reprep.git
+  branch: env_jbds
 
 - dir: src/conf_tools
   url: git@github.com:AndreaCensi/conf_tools.git
+  branch: env_jbds
 
 - dir: src/boot_olympics
   url: git@github.com:AndreaCensi/conf_tools.git
+  branch: env_jbds
 
 - dir: src/rosstream2boot
   url: git@github.com:AndreaCensi/conf_tools.git
+  branch: env_jbds
 
 - dir: src/ros_node_utils
   url: git@github.com:AndreaCensi/conf_tools.git
+  branch: env_jbds
 
 - dir: src/vehicles
   url: git@github.com:AndreaCensi/conf_tools.git
+  branch: env_jbds
 
 - dir: src/bvapps
   url: git@github.com:AndreaCensi/conf_tools.git
+  branch: env_jbds
 
 - dir: src/astatsa
   url: git@github.com:AndreaCensi/conf_tools.git
+  branch: env_jbds
 
 - dir: src/boot_agents
   url: git@github.com:AndreaCensi/conf_tools.git
+  branch: env_jbds
 
 - dir: src/quickapp
   url: git@github.com:AndreaCensi/conf_tools.git
+  branch: env_jbds
 
 - dir: src/yc1304
   url: git@github.com:AndreaCensi/yc1304.git
+  branch: env_jbds
 
 - dir: src/caltech_youbot
   url: git@github.com:AndreaCensi/caltech_youbot.git
+  branch: env_jbds
 
 - dir: src/pysnip
   url: git@github.com:AndreaCensi/pysnip.git
