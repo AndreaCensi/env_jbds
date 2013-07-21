@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?>
+
+<pydev_project>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">env_jbds</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 2.7</pydev_property>
+<pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+<path>/env_jbds/src/boot_agents/src</path>
+<path>/env_jbds/src/boot_olympics/src</path>
+<path>/env_jbds/src/compmake/src</path>
+<path>/env_jbds/src/conf_tools/src</path>
+<path>/env_jbds/src/contracts/src</path>
+<path>/env_jbds/src/geometry/src</path>
+<path>/env_jbds/src/latex_gen/src</path>
+<path>/env_jbds/src/procgraph/src</path>
+<path>/env_jbds/src/quickapp/src</path>
+<path>/env_jbds/src/reprep/src</path>
+<path>/env_jbds/src/vehicles/src</path>
+<path>/env_jbds/src/astatsa/src</path>
+</pydev_pathproperty>
+</pydev_project>
