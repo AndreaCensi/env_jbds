@@ -80,7 +80,20 @@
 - dir: src/pysnip
   url: git@github.com:AndreaCensi/pysnip.git
   branch: env_jbds
-  
+
+- dir: docs/12-censi-thesis-bv
+  url: ssh://git@ac.repositoryhosting.com/ac/12-censi-thesis-bv.git
+  branch: env_jbds
+
+- dir: src/latex_symbol_list
+  url: git@github.com:AndreaCensi/latex_symbol_list.git
+  branch: env_jbds
+
+- dir: src/pysnip
+  url: git@github.com:AndreaCensi/pysnip.git
+  branch: env_jbds
+
+
 # ---
 # dir: src/vehicles_murraylab
 # url: 192.168.1.1:/var/repo/vehicles_murraylab.git
