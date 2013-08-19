@@ -38,35 +38,35 @@
   branch: env_jbds
 
 - dir: src/boot_olympics
-  url: git@github.com:AndreaCensi/conf_tools.git
+  url: git@github.com:AndreaCensi/boot_olympics.git
   branch: env_jbds
 
 - dir: src/rosstream2boot
-  url: git@github.com:AndreaCensi/conf_tools.git
+  url: git@github.com:AndreaCensi/rosstream2boot.git
   branch: env_jbds
 
 - dir: src/ros_node_utils
-  url: git@github.com:AndreaCensi/conf_tools.git
+  url: git@github.com:AndreaCensi/ros_node_utils.git
   branch: env_jbds
 
 - dir: src/vehicles
-  url: git@github.com:AndreaCensi/conf_tools.git
+  url: git@github.com:AndreaCensi/vehicles.git
   branch: env_jbds
 
 - dir: src/bvapps
-  url: git@github.com:AndreaCensi/conf_tools.git
+  url: git@github.com:AndreaCensi/bvapps.git
   branch: env_jbds
 
 - dir: src/astatsa
-  url: git@github.com:AndreaCensi/conf_tools.git
+  url: git@github.com:AndreaCensi/astatsa.git
   branch: env_jbds
 
 - dir: src/boot_agents
-  url: git@github.com:AndreaCensi/conf_tools.git
+  url: git@github.com:AndreaCensi/boot_agents.git
   branch: env_jbds
 
 - dir: src/quickapp
-  url: git@github.com:AndreaCensi/conf_tools.git
+  url: git@github.com:AndreaCensi/quickapp.git
   branch: env_jbds
 
 - dir: src/yc1304

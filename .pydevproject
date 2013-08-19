@@ -17,5 +17,8 @@
 <path>/env_jbds/src/reprep/src</path>
 <path>/env_jbds/src/vehicles/src</path>
 <path>/env_jbds/src/astatsa/src</path>
+<path>/env_jbds/src/yc1304/src</path>
+<path>/env_jbds/src/ros_node_utils/src</path>
+<path>/env_jbds/src/rosstream2boot/src</path>
 </pydev_pathproperty>
 </pydev_project>
