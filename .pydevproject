@@ -7,7 +7,6 @@
 <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
 <path>/env_jbds/src/boot_agents/src</path>
 <path>/env_jbds/src/boot_olympics/src</path>
-<path>/env_jbds/src/compmake/src</path>
 <path>/env_jbds/src/conf_tools/src</path>
 <path>/env_jbds/src/contracts/src</path>
 <path>/env_jbds/src/geometry/src</path>
@@ -20,5 +19,7 @@
 <path>/env_jbds/src/yc1304/src</path>
 <path>/env_jbds/src/ros_node_utils/src</path>
 <path>/env_jbds/src/rosstream2boot/src</path>
+<path>/env_jbds/src/pysnip/src</path>
+<path>/env_jbds/src/compmake/src</path>
 </pydev_pathproperty>
 </pydev_project>
