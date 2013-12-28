@@ -1,0 +1,7 @@
+#!/bin/bash
+set -e
+set -x
+mkdir -p ~/.unison/
+rm -f ~/.unison/unison-to-bigboot1-jbds.prf
+ln -s $PWD/unison-to-bigboot1-jbds.prf ~/.unison/unison-to-bigboot1-jbds.prf
+unison unison-to-bigboot1-jbds -repeat 2 -force  /data/work/scm/environments/env_jbds/src  $*
