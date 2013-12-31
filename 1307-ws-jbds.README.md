@@ -1,13 +1,11 @@
+README for EBS volume 1307-ws-jbds
+----------------------------------
 
 This volume contains source code, datasets, and results output, for the paper
 "Bootstrapping bilinear models of simple Vehicles". 
 
-The main page for the paper is:
-
-    http://purl.org/censi/2013/jbds
-
+The main page for the paper is <http://purl.org/censi/2013/jbds>
 where you can find further materials and explanations.
-
 
 Contents of this volume:
 
