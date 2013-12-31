@@ -15,12 +15,11 @@ to disseminate the computational elements of research
 are to disseminate them as a virtual machine. Currently, Amazon EC2
 is the best platform for the job.
 
-These are instructions that allow to clone our virtual machine setup
-on your own Amazon EC2 account.
-
-(**to finish**)
 
 ## Instructions
 
-1. Import and activate the Amazon EC2 virtual machine on your account.
-2. [Run the code](1307-ws-jbds.README.md).
+These are instructions that allow to clone our virtual machine setup
+on your own Amazon EC2 account.
+
+1. [Import and activate the Amazon EC2 virtual machine](README-ec2.md).
+2. [Run the code](README-1307-ws-jbds.md).
