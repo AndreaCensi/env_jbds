@@ -32,6 +32,8 @@ To reproduce the results:
         cd /1307-ws-jbds/workspace
         nice -n 20 yc jbds -c "parmake"
 
+This takes about 13 cpu-days and occupies 21GB of space.
+
 Alternatively, using
 
         yc jbds --console
