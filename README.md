@@ -8,15 +8,13 @@ The paper's PDF, slides, and other additional materials are found
 
 [webpage]: http://purl.org/censi/2013/jbds
 
-## Introduction
-
 After a few years of experience I realized that the best way 
 to disseminate the computational elements of research 
 are to disseminate them as a virtual machine. Currently, Amazon EC2
 is the best platform for the job.
 
 
-## Instructions
+## Instructions for running code from the Amazon cloud
 
 These are instructions that allow to clone our virtual machine setup
 on your own Amazon EC2 account.
@@ -24,3 +22,7 @@ on your own Amazon EC2 account.
 1. [Import and activate the Amazon EC2 virtual machine](README-ec2.md).
 2. Login to the virtual machine; username ``researcher``, password ``rr``.
 3. [Inspect the datasets/code and run the experiments](README-1307-ws-jbds.md).
+
+## Instructions for reproducing the development environment from scratch
+
+**to write**
