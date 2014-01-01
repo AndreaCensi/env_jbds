@@ -22,4 +22,5 @@ These are instructions that allow to clone our virtual machine setup
 on your own Amazon EC2 account.
 
 1. [Import and activate the Amazon EC2 virtual machine](README-ec2.md).
-2. [Run the code](README-1307-ws-jbds.md).
+2. Login to the virtual machine; username ``researcher``, password ``rr``.
+3. [Inspect the datasets/code and run the experiments](README-1307-ws-jbds.md).
