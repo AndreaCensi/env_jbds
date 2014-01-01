@@ -7,9 +7,12 @@ Method 1: Running the AMI directly
 -----------------------------------
 
      $ ec2-run-instance ami-a9d2e7c0 --instance-type c3.large
+     
 
 Method 2: Copying the AMI to your account
 ---------------------------------------------
+
+You can also copy the AMI and inspect the volume snapshots.
 
 Copy it to your account as follows:
 
@@ -22,5 +25,11 @@ The output is the new AMI ID.
     
     
      
-     
+Troubleshooting
+===============
+
+**Cannot ``ssh`` into the machine**
+
+Probably the "security group" does not allow SSH connections. 
+
      
