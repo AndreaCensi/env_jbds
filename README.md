@@ -52,6 +52,13 @@ The username is ``researcher`` and the password is ``rr``.
 
 Look up the IP on the AWS Console and simply ssh into it.
 
+#### Troubleshooting
+
+**Cannot ``ssh`` into the machine**. Most likely the "security group" you chose (or the default for your account)  does not allow SSH connections. Don't overthink this error.
+
+If the security group is correct, then look at the virtual machine's console output from the AWS console.
+
+
 
 ### Step 3: 
 
