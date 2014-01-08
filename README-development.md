@@ -1,13 +1,11 @@
 Development notes
 =================
 
-These are some misc development notes for collaborators.
-
 ## Step 1: Checkout the source code
 
 The file ``resources.yaml`` lists all necessary repositories.
 
-If you installed ``patience`` then this should suffice:
+If you installed ``patience`` (``sudo pip install patience``) then this should suffice:
     
     $ pat checkout -s -v
     
