@@ -52,6 +52,7 @@ The username is ``researcher`` and the password is ``rr``.
 
 Look up the IP on the AWS Console and simply ssh into it.
 
+
 #### Troubleshooting
 
 **Cannot ``ssh`` into the machine**. Most likely the "security group" you chose (or the default for your account)  does not allow SSH connections. Don't overthink this error.
@@ -59,11 +60,18 @@ Look up the IP on the AWS Console and simply ssh into it.
 If the security group is correct, then look at the virtual machine's console output from the AWS console.
 
 
+### Step 3: Run the experiments
 
-### Step 3: 
+Assuming that everything was fine, the following will do:
 
- 
+    cd /1307-ws-jbds/env_jbds
+    source environment.sh
+    cd /1307-ws-jbds/workspace
+    nice -n 20 yc jbds -c "parmake"
+
+[See here for a longer explanation.](README-1307-ws-jbds.md).
+
 
 ## Instructions for reproducing the development environment from scratch
 
-**to write**
+[See here for instructions on how to setup the development environment from scratch](README-development.md).
